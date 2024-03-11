@@ -1,7 +1,7 @@
-package com.example.customquery2.repositories;
+package com.example.es16.repositories;
 
-import com.example.customquery2.entities.Flight;
-import com.example.customquery2.entities.Status;
+import com.example.es16.entities.Flight;
+import com.example.es16.entities.Status;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.jpa.repository.JpaRepository;

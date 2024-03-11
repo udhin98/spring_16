@@ -1,8 +1,8 @@
-package com.example.customquery2.Controller;
+package com.example.es16.Controller;
 
-import com.example.customquery2.entities.Flight;
-import com.example.customquery2.entities.Status;
-import com.example.customquery2.repositories.FlightRepository;
+import com.example.es16.entities.Flight;
+import com.example.es16.entities.Status;
+import com.example.es16.repositories.FlightRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;

@@ -1,4 +1,4 @@
-package com.example.customquery2;
+package com.example.es16;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

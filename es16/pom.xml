@@ -11,7 +11,7 @@
 	<groupId>com.example</groupId>
 	<artifactId>customquery2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>customquery2</name>
+	<name>es16</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>21</java.version>

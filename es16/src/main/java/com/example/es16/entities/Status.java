@@ -1,4 +1,4 @@
-package com.example.customquery2.entities;
+package com.example.es16.entities;
 
 public enum Status {
     ONTIME,
